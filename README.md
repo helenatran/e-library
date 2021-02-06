@@ -1,5 +1,8 @@
 # E-Library
 
+This repository contains the code base for the e-library application created for 41094 Software Engineering Studio 1B in 2020 Spring Semester.
+
+## Pre-requisites
 1. Pull repo `git clone https://github.com/pharapeti/e-library.git`
 2. Install [rvm](https://rvm.io/)
 3. Using rvm or any other ruby manager, install Ruby. Ensure you install the same version as the one specified in the **Gemfile**
@@ -15,6 +18,6 @@
 - Patrice Harapeti
 - Davit Gevorgyan
 - Ahmed Khursheed
-- Hèlèna Tran
+- Helena Tran
 - Jun Kok
 - Patrick Mouawad
